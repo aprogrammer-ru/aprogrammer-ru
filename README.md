@@ -1,8 +1,8 @@
 ## Hi there 👋
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed) &nbsp;&nbsp;&nbsp; [#whoami](../../blob/master/whoami_en.md)
 
 My name is Andrey, I'm a full-stack developer .NET C#, JavaScript.
-<!--<br>[Details about stack's and experiense here](../../blob/master/WHOAMI_EN.md)-->
+
+## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed) &nbsp;&nbsp;&nbsp; [#whoami](../../blob/master/whoami_en.md)
 
 ### Guidelines
 
