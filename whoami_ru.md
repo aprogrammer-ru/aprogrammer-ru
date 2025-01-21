@@ -15,3 +15,6 @@
 Веб-страница: aprogrammer.ru
 
 Открыт к нетворкингу, участию в стартапах и open-source проектах.
+
+[(English version)](../../blob/master/whoami_en.md)
+
